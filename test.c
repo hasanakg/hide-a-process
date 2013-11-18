@@ -1,8 +1,3 @@
-/*************************************************************************
- * Some test code to test system call 'set_hidden' does its job or not.  *
- * 															17.11.2013   *
- *************************************************************************/
-
 #include <stdio.h>
 #include <unistd.h>
 #define NR_set_hidden 351
