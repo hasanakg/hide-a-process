@@ -2,7 +2,7 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/i386 3.8.13.6-custom Kernel Configuration
 #
-# CONFIG_64BIT is not set
+# CONFIG_64BIT is not sett
 CONFIG_X86_32=y
 CONFIG_X86=y
 CONFIG_INSTRUCTION_DECODER=y
